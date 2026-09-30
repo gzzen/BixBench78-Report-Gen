@@ -8,7 +8,11 @@ python run_eval.py out1 out2 out3        # several runs; each gets its own repor
 python run_eval.py baseline --skip-llm   # skip DeepSeek-judged questions
 ```
 
-Setup: copy `.env.example` to `.env` and set `DEEPSEEK_API_KEY` (only needed for `llm_verifier` questions;
+Setup (Python 3.10+):
+```
+python3 -m venv .venv && source .venv/bin/activate
+```
+Then copy `.env.example` to `.env` and set `DEEPSEEK_API_KEY` (only needed for `llm_verifier` questions;
 stdlib only, no pip installs).
 
 ## Layout
