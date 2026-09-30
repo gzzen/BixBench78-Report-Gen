@@ -1,3 +1,6 @@
 .DS_Store
-run_outputs/
+run_output/*
 report/
+
+# not ignoring
+!run_output/PLACE_OUTPUT_HERE
