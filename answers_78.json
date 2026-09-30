@@ -1,0 +1,548 @@
+{
+  "bix-10-q1": {
+    "ideal": "(1.50,1.54)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-10-q2": {
+    "ideal": "(0.74,0.77)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "E"
+  },
+  "bix-10-q3": {
+    "ideal": "1-50",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "A"
+  },
+  "bix-10-q4": {
+    "ideal": "(0.024,0.026)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "A",
+    "mcq_with_refusal_refusal_letter": "E"
+  },
+  "bix-10-q5": {
+    "ideal": "(0.43,0.45)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "D",
+    "mcq_with_refusal_refusal_letter": "E"
+  },
+  "bix-10-q6": {
+    "ideal": "(0.023,0.025)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "A",
+    "mcq_with_refusal_refusal_letter": "E"
+  },
+  "bix-10-q7": {
+    "ideal": "(24,26)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "A",
+    "mcq_with_refusal_refusal_letter": "D"
+  },
+  "bix-22-q1": {
+    "ideal": "CD14",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "A",
+    "mcq_with_refusal_refusal_letter": "D"
+  },
+  "bix-22-q2": {
+    "ideal": "(0.045,0.055)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "D",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-22-q3": {
+    "ideal": "(0.03,0.05)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "A"
+  },
+  "bix-22-q4": {
+    "ideal": "(0.015,0.025)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "D",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-22-q6": {
+    "ideal": "(0.3,0.4)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "D"
+  },
+  "bix-24-q1": {
+    "ideal": "Canonical glycolysis",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "D",
+    "mcq_with_refusal_refusal_letter": "A"
+  },
+  "bix-24-q2": {
+    "ideal": "Downregulation",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "A",
+    "mcq_with_refusal_refusal_letter": "B"
+  },
+  "bix-24-q6": {
+    "ideal": "Cellular response to decreased oxygen levels",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "A"
+  },
+  "bix-25-q1": {
+    "ideal": "0.26",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "A",
+    "mcq_with_refusal_refusal_letter": "B"
+  },
+  "bix-25-q4": {
+    "ideal": "0.21",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "E",
+    "mcq_with_refusal_refusal_letter": "B"
+  },
+  "bix-28-q1": {
+    "ideal": "5.107 x 10^-47",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "D",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-28-q2": {
+    "ideal": "-25.0",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "D",
+    "mcq_with_refusal_refusal_letter": "B"
+  },
+  "bix-28-q3": {
+    "ideal": "-30.4551",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "E",
+    "mcq_with_refusal_refusal_letter": "D"
+  },
+  "bix-28-q4": {
+    "ideal": "4639.0",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "C",
+    "mcq_with_refusal_refusal_letter": "D"
+  },
+  "bix-28-q5": {
+    "ideal": "-26.9",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-28-q6": {
+    "ideal": "5.2",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "E",
+    "mcq_with_refusal_refusal_letter": "A"
+  },
+  "bix-3-q1": {
+    "ideal": "(700,1000)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "E",
+    "mcq_with_refusal_refusal_letter": "B"
+  },
+  "bix-3-q2": {
+    "ideal": "(0.03,0.04)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-3-q3": {
+    "ideal": "(700,800)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "D"
+  },
+  "bix-3-q4": {
+    "ideal": "(400,500)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-3-q5": {
+    "ideal": "Final vs Baseline Blood",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "A",
+    "mcq_with_refusal_refusal_letter": "B"
+  },
+  "bix-30-q1": {
+    "ideal": "28%",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-30-q3": {
+    "ideal": "0:0",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "E",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-30-q5": {
+    "ideal": "0",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "E",
+    "mcq_with_refusal_refusal_letter": "B"
+  },
+  "bix-30-q6": {
+    "ideal": "49",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "C",
+    "mcq_with_refusal_refusal_letter": "E"
+  },
+  "bix-33-q1": {
+    "ideal": "CD14 Monocytes",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-33-q6": {
+    "ideal": "1",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "D",
+    "mcq_with_refusal_refusal_letter": "B"
+  },
+  "bix-38-q1": {
+    "ideal": "2x larger in fungi",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "C",
+    "mcq_with_refusal_refusal_letter": "A"
+  },
+  "bix-38-q2": {
+    "ideal": "0.55",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "A",
+    "mcq_with_refusal_refusal_letter": "D"
+  },
+  "bix-38-q3": {
+    "ideal": "5%",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-38-q5": {
+    "ideal": "94%",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "E"
+  },
+  "bix-38-q6": {
+    "ideal": "2.178",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "E",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-39-q2": {
+    "ideal": "2.5",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "D",
+    "mcq_with_refusal_refusal_letter": "E"
+  },
+  "bix-45-q1": {
+    "ideal": "7.6968e-54",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "A",
+    "mcq_with_refusal_refusal_letter": "D"
+  },
+  "bix-45-q2": {
+    "ideal": "0.22",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "D",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-45-q5": {
+    "ideal": "0.12",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "A",
+    "mcq_with_refusal_refusal_letter": "B"
+  },
+  "bix-45-q6": {
+    "ideal": "0.27",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "C",
+    "mcq_with_refusal_refusal_letter": "B"
+  },
+  "bix-46-q1": {
+    "ideal": "-4.96",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "C",
+    "mcq_with_refusal_refusal_letter": "D"
+  },
+  "bix-46-q4": {
+    "ideal": "-4.10",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "E",
+    "mcq_with_refusal_refusal_letter": "B"
+  },
+  "bix-49-q1": {
+    "ideal": "4.80",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "A"
+  },
+  "bix-49-q2": {
+    "ideal": "7.04E-26",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "D"
+  },
+  "bix-49-q3": {
+    "ideal": "1166",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "C",
+    "mcq_with_refusal_refusal_letter": "E"
+  },
+  "bix-49-q4": {
+    "ideal": "2118",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-49-q5": {
+    "ideal": "3.83",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "D",
+    "mcq_with_refusal_refusal_letter": "E"
+  },
+  "bix-52-q1": {
+    "ideal": "(0.47,0.67)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "E",
+    "mcq_with_refusal_refusal_letter": "B"
+  },
+  "bix-52-q2": {
+    "ideal": "(1.03E-07,1.23E-07)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "E",
+    "mcq_with_refusal_refusal_letter": "A"
+  },
+  "bix-52-q3": {
+    "ideal": "(48,50)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-52-q5": {
+    "ideal": "(0.9e-7,1.1e-7)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "E"
+  },
+  "bix-52-q6": {
+    "ideal": "Chromosome W",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "A",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-52-q7": {
+    "ideal": "19,159",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "A",
+    "mcq_with_refusal_refusal_letter": "B"
+  },
+  "bix-54-q1": {
+    "ideal": "(0.88,1.0)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "A",
+    "mcq_with_refusal_refusal_letter": "B"
+  },
+  "bix-54-q2": {
+    "ideal": "(0.58,0.59)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "A",
+    "mcq_with_refusal_refusal_letter": "E"
+  },
+  "bix-54-q3": {
+    "ideal": "(157500,158000)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "A",
+    "mcq_with_refusal_refusal_letter": "D"
+  },
+  "bix-54-q4": {
+    "ideal": "(1.13e-10,1.13e-12)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "C",
+    "mcq_with_refusal_refusal_letter": "E"
+  },
+  "bix-54-q5": {
+    "ideal": "(0.90,0.99)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "D",
+    "mcq_with_refusal_refusal_letter": "B"
+  },
+  "bix-54-q6": {
+    "ideal": "(0.80,0.81)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "D",
+    "mcq_with_refusal_refusal_letter": "A"
+  },
+  "bix-54-q7": {
+    "ideal": "(184000,185000)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "C",
+    "mcq_with_refusal_refusal_letter": "B"
+  },
+  "bix-6-q1": {
+    "ideal": "chronic round 2",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-6-q3": {
+    "ideal": "0",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-6-q4": {
+    "ideal": "(0.001,0.09)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "A",
+    "mcq_with_refusal_refusal_letter": "E"
+  },
+  "bix-6-q5": {
+    "ideal": "25%",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "E",
+    "mcq_with_refusal_refusal_letter": "A"
+  },
+  "bix-6-q6": {
+    "ideal": "(0,0.09)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "E"
+  },
+  "bix-6-q7": {
+    "ideal": "cGMP effects",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "C",
+    "mcq_with_refusal_refusal_letter": "E"
+  },
+  "bix-60-q1": {
+    "ideal": "19",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "D"
+  },
+  "bix-61-q6": {
+    "ideal": "The MDR strain accumulates mutations at a rate of 101,817 SNPs which is higher than the retail meat strain (94,440 SNPs).",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "D",
+    "mcq_with_refusal_refusal_letter": "C"
+  },
+  "bix-8-q1": {
+    "ideal": "15.6%",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "D"
+  },
+  "bix-8-q2": {
+    "ideal": "(900.5,902.5)",
+    "eval_mode": "range_verifier",
+    "mcq_without_refusal_correct_letter": "A",
+    "mcq_with_refusal_correct_letter": "D",
+    "mcq_with_refusal_refusal_letter": "A"
+  },
+  "bix-8-q3": {
+    "ideal": "1.33",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "B",
+    "mcq_with_refusal_correct_letter": "D",
+    "mcq_with_refusal_refusal_letter": "B"
+  },
+  "bix-8-q5": {
+    "ideal": "p < 2.2e-16",
+    "eval_mode": "llm_verifier",
+    "mcq_without_refusal_correct_letter": "D",
+    "mcq_with_refusal_correct_letter": "A",
+    "mcq_with_refusal_refusal_letter": "E"
+  },
+  "bix-8-q6": {
+    "ideal": "680",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "B",
+    "mcq_with_refusal_refusal_letter": "A"
+  },
+  "bix-8-q7": {
+    "ideal": "106",
+    "eval_mode": "str_verifier",
+    "mcq_without_refusal_correct_letter": "C",
+    "mcq_with_refusal_correct_letter": "C",
+    "mcq_with_refusal_refusal_letter": "E"
+  }
+}
