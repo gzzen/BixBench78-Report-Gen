@@ -4,3 +4,8 @@ report/
 
 # not ignoring
 !run_output/PLACE_OUTPUT_HERE
+# python / secrets / caches
+__pycache__/
+*.pyc
+.env
+.cache/
